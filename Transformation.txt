@@ -1,4 +1,0 @@
-List of Transformations in the Apache Spark:
-Map
-filter
-reduce
